@@ -23,7 +23,7 @@ msgid "%d Minutes"
 msgstr "%d 分钟"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Cache data"
 msgstr "缓存数据"
@@ -44,7 +44,7 @@ msgid ""
 msgstr "选择是否激活“夜间开关”。然后，一些图标会显示为带月亮的夜间图标。"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "选择收藏"
 
 #, python-format
 msgid "City '%s' not found! Please try another wording."
@@ -60,7 +60,7 @@ msgid "Defaults"
 msgstr "默认"
 
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 msgid "Disabled"
 msgstr "已禁用"
@@ -70,15 +70,17 @@ msgid ""
 "Do you really want do delete favorite\n"
 "'%s'?"
 msgstr ""
+"确定要删除收藏\n"
+"'%s'吗?"
 
 msgid "Do you really want do exit without saving your modified favorite list?"
-msgstr ""
+msgstr "确定要退出而不保存修改后的收藏列表吗？"
 
 msgid "East"
 msgstr "东风"
 
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 msgid "Enable Debug"
 msgstr "启用调试"
@@ -90,6 +92,8 @@ msgid ""
 "Enter the location for your weather forecasts. To include your location, "
 "expand your favorites list with 'Manage your favorites'."
 msgstr ""
+"输入您想查询天气的位置。若要添加当前位置，"
+"您可通过‘管理收藏’功能扩展您的收藏列表。"
 
 msgid "Error getting City ID"
 msgstr "获取城市 ID 错误"
@@ -101,7 +105,7 @@ msgid "Fahrenheit"
 msgstr "华氏温度"
 
 msgid "Favorites have been successfully saved!"
-msgstr ""
+msgstr "收藏保存成功！"
 
 msgid "Feels like"
 msgstr "体感温度"
@@ -113,31 +117,31 @@ msgid "MSN weather"
 msgstr "MSN 天气"
 
 msgid "Manage favorites"
-msgstr ""
+msgstr "管理收藏"
 
 msgid "Metric unit for wind speed"
-msgstr "风速的公制单位"
+msgstr "风速公制单位"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "下个收藏"
 
 msgid "View details"
-msgstr ""
+msgstr "查看详情"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "天 +/-"
 
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 msgid "Manage your favorites"
-msgstr ""
+msgstr "管理收藏"
 
 msgid "No data available for this period."
-msgstr ""
+msgstr "此时间段内没有可用数据。"
 
 msgid "No data available."
-msgstr ""
+msgstr "没有可用数据。"
 
 msgid "North"
 msgstr "北风"
@@ -155,13 +159,13 @@ msgid "Precipitation"
 msgstr "降水概率"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "上个收藏"
 
 msgid "Refresh interval"
 msgstr "刷新间隔"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #, fuzzy
 #| msgid "Search for your City"
@@ -172,12 +176,12 @@ msgid "Select 'Yes' to enable add debug output to log."
 msgstr "选择“是”以启用将调试输出添加到日志。"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "选择“是”以启用附加天气。"
+msgstr "选择“是”以启用天气功能。"
 
 #, fuzzy
 #| msgid "Select Your Location"
 msgid "Select desired location"
-msgstr "选择您的位置"
+msgstr "选择所需位置"
 
 msgid ""
 "Select the metric unit for wind speed to be used for wind displays. This has "
@@ -237,6 +241,8 @@ msgid ""
 "The favorite '%s' corresponds to the set weather city name and therefore "
 "cannot be deleted."
 msgstr ""
+"%s 是当前设定的天气城市，"
+"因此无法删除"
 
 msgid "Today"
 msgstr "今天"
@@ -250,12 +256,12 @@ msgstr "天气插件"
 #, fuzzy
 #| msgid "Weather Plugin"
 msgid "Weather Plugin Detailview"
-msgstr "天气插件"
+msgstr "天气插件详情"
 
 #, fuzzy
 #| msgid "Weather Plugin"
 msgid "Weather Plugin Overview"
-msgstr "天气插件"
+msgstr "天气插件概览"
 
 msgid "Weather Settings Actions"
 msgstr "天气设置操作"
@@ -264,10 +270,10 @@ msgid "Weather city name"
 msgstr "天气城市名称"
 
 msgid "Weather cityname (at least 3 letters):"
-msgstr ""
+msgstr "城市名称（至少3个字）"
 
 msgid "Weather icon night switch"
-msgstr "天气图标夜间开关"
+msgstr "夜间天气图标开关"
 
 msgid "Weather icon set"
 msgstr "天气图标集"
@@ -278,7 +284,7 @@ msgstr "天气服务"
 #, fuzzy
 #| msgid "Weather API key"
 msgid "Weather API key v2.5"
-msgstr "天气 API 密钥"
+msgstr "天气 API 密钥 v2.5"
 
 msgid "Weather settings"
 msgstr "天气设置"
